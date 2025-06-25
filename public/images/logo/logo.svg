@@ -1,2 +1,18 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="tiny" height="49" version="1.2" width="242" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink"><defs /><polyline fill="none" points="0,0 0,48 141,48 141,0" stroke="black" stroke-width="1" /><text fill="black" font-family="Arial" font-size="20px" font-weight="bold" x="152" y="29">mintyfy</text></svg>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 154 32" width="154" height="32">
+	<title>logo</title>
+	<defs>
+		<image  width="118" height="36" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHYAAAAkCAMAAABrPz7fAAAAAXNSR0IB2cksfwAAAOFQTFRF5+fk5+fktLSxvr68KiopGRkYCwsKUVFPMzMzdHRy09PQOjo5eXl319fUioqHQ0NCoaGfYGBehISCTU1LvLy5c3Nrq6uoZmZmzMzMWFhX518tCy5fgYF/5+eCRBkKLl/khEMYHiAYrq6sCxlChOfkGUOC54ZCGQsK5OThxcXDKSkhEBAPFRUTkZGPYC4KhOdfLgsKCwsYRIbkGUNfCxkpKhkKExkSCwstYOfkYOeCM2Zm5+dfGUNMGUM53NzZpaWj09PQRIaC3t7bmZmZ5OThCxkYIiIhPz89jIyK3t7bzMzM/EcEgwAAAEt0Uk5T/wD//////////////wD/////////////sP////////////////////////////////////////////////8A/0D/AP8A////////LnUERAAAAqRJREFUeJzt19tvEkEUB+BzgAYFbLm0UAQC1lRJENMmRhNNJdgX/ZO1SUk1aWJ8aI0N3TQUCBGEUiilsIoK68zedyFc464PzgMTfoH5ds7MzgKCKQ1NYs1x/7MmsYgD41m0IOJPw1k7fncgdg1mXT0bC8vYNpgFm7MFHmgZzXo6Tkt7QDaVD4FrGMbCGnZdNYAV1gcNx/XiRPCSjFmZyIrN4fkK4St23IBhrEKwNEGNUnF6NoZ52OCK40ak84jguS6L5tTvN7EwE7sOK3AN1XHs8GzphWjZUSXWsPGWh35hs+jyMqQP3MSgeKc2jh1uo9nhhVDYuLVgd5O+w3L38IQmZEtpPkvrteYjlxRxYRYSeMQHFTpwsl4lQR2F4oTKFKe1eIyf+WTrWEoieS27bJMRdzd+MmIqwjLJbRubMisElrLAPmGzZM0D3Sw8LQnJsxspEWohszsNpi+PmDp8cTCRTWBHyybc5wISXGHIRZUulSR6W0rwSMP61tUT9PX4Qznei2W0bARZfo/Q2yJol1kxKIlrSz8ZxArdS+LaqhId+5tRBC82yav/insY2NewghLN6VgxkFhIMvwEiSdtKSXRsLsHnguF9a+eArx6P+gnOX9mDpb0qVJhGz/KrJJoWAjVXpbl+fLnhB/I7bMUKczI0j7M72laUYlVEi0Lztjdb1/UbCjxFqzW+8wM7HOyV0GqrTRLobJyomNh59NGrqdi04ep46ZXKf0ULPCu2PPnpszKiZ4lO9dyKvyM8m/tkdf02a9H+zBXG31cyYnuTHZywq+Z19y7+Ti+CaUWb9GRiY5NXyBd3jd7Sz8WZtWT1Sf6J5AzhpF8s92/1VmU1Zz/+mTowbcaOIMHdXYRdYo2/LzdzUTDH/4u+k/9GTGCNUU1i/0DD+9SVC8NjXAAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+	</style>
+	<g>
+	</g>
+	<g>
+	</g>
+	<g>
+	</g>
+	<text id="" style="transform: matrix(1,0,0,1,57,23)" >
+	</text>
+	<use id="Capa 1" href="#img1" x="18" y="-2"/>
+</svg>
